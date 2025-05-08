@@ -19,7 +19,7 @@ This project implements adversarial attacks on a pretrained ResNet-34 classifier
 | Task 1: Baseline  | 76.00               | 94.00                |
 | Task 2: FGSM                 | 6.80               | 35.60                |
 | Task 3: Improved attacks      | 0.00               | 9.00                |
-| Task 4: Patch attacks        | XX.X               | XX.X                |
+| Task 4: Patch attacks        | 4.00               | 34.80                |
 
 
 ### Accuracy Comparison - DenseNet121
@@ -29,4 +29,4 @@ This project implements adversarial attacks on a pretrained ResNet-34 classifier
 | Task 1: Baseline  | 75.40               | 93.60                |
 | Task 2: FGSM                 | 63.60               | 88.80                |
 | Task 3: Improved attacks      | 64.60               | 90.40                |
-| Task 4: Patch attacks        | XX.X               | XX.X                |
+| Task 4: Patch attacks        | 61.80               | 85.60                |
